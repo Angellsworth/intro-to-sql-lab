@@ -1,9 +1,3 @@
-Absolutely! Here’s a super cool README.md for your intro-to-sql-lab repo — complete with emojis, code instructions, learning goals, and a sprinkle of Carmen Sandiego flair:
-
-⸻
-
-
-
 # 🕵️‍♀️ Intro to SQL Lab: Where in the World is Carmen Sandiego?
 
 Welcome, gumshoe. You’ve just entered a world of **data sleuthing**, international chases, and crafty SQL queries. Your mission? To **track down Carmen Sandiego** using nothing but your wit, a relational database, and some clean code.
